@@ -1,0 +1,6 @@
+= westapp starter
+:reproducible:
+
+This readme is made with ascii doc.
+
+always start a project with this format agaist .md
